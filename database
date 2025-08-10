@@ -5,3 +5,10 @@ CONCAT	Adds two or more expressions together
 CONCAT_WS	Adds two or more expressions together with a separator
 FIELD	Returns the index position of a value in a list of values
 FIND_IN_SET	Returns the position of a string within a list of strings
+ASCII	Returns the ASCII value for the specific character
+CHAR_LENGTH	Returns the length of a string (in characters)
+CHARACTER_LENGTH	Returns the length of a string (in characters)
+CONCAT	Adds two or more expressions together
+CONCAT_WS	Adds two or more expressions together with a separator
+FIELD	Returns the index position of a value in a list of values
+FIND_IN_SET	Returns the position of a string within a list of strings
